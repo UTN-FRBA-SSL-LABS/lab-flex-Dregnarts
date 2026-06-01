@@ -11,7 +11,7 @@
 digitoHexa      [0-9a-fA-F]
 
  /* TODO 1 — Definir 'digito' como cualquier dígito decimal [0-9]        */
-digito         [0-9]
+digito      [0-9]
 
  /* TODO 2 — Definir 'letra' como letra mayúscula, minúscula o guión bajo */
 letra [a-zA-Z_]
