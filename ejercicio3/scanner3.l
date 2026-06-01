@@ -7,6 +7,7 @@
 
  /* Variable global para contar los tokens reconocidos */
 int contadorTokens = 0;
+int duplicar(int x) { return x * 2; }
 %}
 
 letra           [a-zA-Z_]
